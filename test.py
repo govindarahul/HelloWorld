@@ -1,4 +1,4 @@
-print "Hello World"
+print ("Hello World")
 
-print "Second line"
-print "Third Line"
+print ("Second line")
+print ("Third Line")

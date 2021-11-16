@@ -1,1 +1,1 @@
-print "Hai - first line"
+print ("Hai - first line")
